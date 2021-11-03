@@ -1,7 +1,7 @@
 ### Hi there, my name is Ayrton de Freitas Silva Diniz 👋
 
-- 🔭 I’m currently working on JS, HTML and CSS.
-- 🌱 I’m currently learning JS, HTML, CSS and Cloud.
+- 🔭 I’m currently working on Backend.
+- 🌱 I’m currently learning Nodejs, Express and Cloud.
 
 
 <section>
