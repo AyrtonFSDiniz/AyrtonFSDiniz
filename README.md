@@ -1,7 +1,7 @@
 ### Hi there, my name is Ayrton de Freitas Silva Diniz 👋
 
 - 🔭 I’m currently working on Backend.
-- 🌱 I’m currently learning Nodejs, Express and Cloud.
+- 🌱 I’m currently learning Typescript, Nodejs, NestJS, Blockchain and AWS Cloud.
 
 
 <section>
